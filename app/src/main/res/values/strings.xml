@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">MyMenu</string>
+    <!--    <string name="menu_pedidos">Mis Pedidos</string>-->
+    <!--    <string name="menu_favoritos">Mis Favoritos</string>-->
+    <!--    <string name="menu_metpago">Mis Metodos Pago</string>-->
+    <!--    <string name="menu_config">Configuracion</string>-->
+    <!--    <string name="menu_perfil">Mi Perfil</string>-->
+    <!--    <string name="menu_salir">Salir</string>-->
+    <string name="menu_calcular_g">Calcular Grasa Corporal</string>
+    <string name="menu_calcular_imc">Calcular Indice de Masa Corporal</string>
+    <string name="menu_calculos">Mis Calculos</string>
+    <string name="menu_datos">Mis Datos</string>
+    <string name="menu_perfil">Mi Perfil</string>
+    <string name="menu_salir">Salir</string>
+    <!--SUB MENUS TITULOS-->
+    <string name="menu_sub_opciones">Opciones</string>
+    <string name="menu_sub_cuenta">Cuenta</string>
+    <string name="menu_sub_cerrar">Cerrar</string>
+    <string name="page_title">Componentes</string>
+
+    <string name="open_drawer">Open</string>
+    <string name="close_drawer">Close</string>
+    <string name="calcular_fbtn">calcular grasa corporal</string>
+    <string name="ingresar_datos">Grasa Corporal</string>
+    <string name="calcular_indice_grasa_corporal">Calcular Indice Grasa Corporal</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancelar</string>
+
+    <array name="ESTADOS_GRASA_CORPORAL">
+        <item>
+            <string name="GRASA_ESENCIAL">Grasa esencial</string>
+            <string name="GRASA_ESENCIAL">Grasa esencial</string>
+            <string name="GRASA_ESENCIAL">Grasa esencial</string>
+        </item>
+
+    </array>
+</resources>

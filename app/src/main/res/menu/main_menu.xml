@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/menu_sub_opciones">
+        <menu>
+            <group>
+                <item
+                    android:id="@+id/item_calcular_grasa"
+                    android:icon="@drawable/ic_indice_grasa"
+                    android:title="@string/menu_calcular_g" />
+                <item
+                    android:id="@+id/item_calcular_imc"
+                    android:icon="@drawable/ic_masa_corporal"
+                    android:title="@string/menu_calcular_imc" />
+                <item
+                    android:id="@+id/item_mis_calculos"
+                    android:icon="@drawable/ic_outline_mood"
+                    android:title="@string/menu_calculos" />
+            </group>
+        </menu>
+    </item>
+    <item android:title="@string/menu_sub_cuenta">
+        <menu>
+            <group>
+                <item
+                    android:id="@+id/item_mis_datos"
+                    android:icon="@drawable/ic_mis_datos"
+                    android:title="@string/menu_datos" />
+                <item
+                    android:id="@+id/item_mi_perfil"
+                    android:icon="@drawable/ic_my_profile"
+                    android:title="@string/menu_perfil" />
+            </group>
+        </menu>
+    </item>
+    <item android:title="@string/menu_sub_cerrar">
+        <menu>
+            <item
+                android:id="@+id/item_cerrar"
+                android:icon="@drawable/ic_logout"
+                android:title="@string/menu_salir" />
+        </menu>
+    </item>
+</menu>
